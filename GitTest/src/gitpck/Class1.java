@@ -15,7 +15,7 @@ public class Class1 {
 	public static void fuck()
 	{
 		
-		System.out.println("FUCK U");
+		System.out.println("FUCK UUU");
 		
 		System.out.println("newshit");
 	}
