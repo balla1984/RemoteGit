@@ -4,9 +4,11 @@ public class Class1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("szíjjad ki");
+		System.out.println("szÃ­jjad ki");
 		
 		System.out.println("faszom");
+		
+		System.out.println("from GIT");
 		
 		fuck();
 
