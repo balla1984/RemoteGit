@@ -16,6 +16,8 @@ public class Class1 {
 	{
 		
 		System.out.println("FUCK U");
+		
+		System.out.println("newshit");
 	}
 
 }
